@@ -29,14 +29,12 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=17367;Python;0;EUTF-8;0;1;0;C%3A%5CMyScripts%5Cpy_VPrs%5Cpy_TERM_34%5Cpy_tabs_term_34.py;0;4
-FILE_NAME_1=25060;Python;0;EUTF-8;0;1;0;C%3A%5CMyScripts%5Cpy_VPrs%5Cpy_TERM_34%5Cpy_tabs_pack_34.py;0;4
-FILE_NAME_2=1379;Python;0;EUTF-8;0;1;0;C%3A%5CMyScripts%5Ca_PySimpleGUI%5Cpy_packet%5Cpy_TEST%5Cpy_TABL.py;0;4
+FILE_NAME_0=75;Python;0;EUTF-8;0;1;0;C%3A%5CMyScripts%5Cpy_VPrs%5Cpy_GIT_34%5Cpy_tabs_pack_34.py;0;4
 
 [build-menu]
 EX_00_LB=_Execute
-EX_00_CM=C:\\MyScripts\\py_VPrs\\py_TERM_34\\Scripts\\python "%f"
+EX_00_CM=C:\\MyScripts\\py_VPrs\\py_GIT_34\\venv\\Scripts\\python "%f"
 EX_00_WD=
 EX_01_LB=Debug
-EX_01_CM=C:\\MyScripts\\py_VPrs\\py_TERM_34\\Scripts\\winpdb "%f"
+EX_01_CM=C:\\MyScripts\\py_VPrs\\py_GIT_34\\venv\\Scripts\\winpdb "%f"
 EX_01_WD=
