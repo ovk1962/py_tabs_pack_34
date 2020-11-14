@@ -1,0 +1,12 @@
+2020-11-07 18:40:29,857 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-11-07 18:40:29,857 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-11-07 18:41:00,326 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-11-07 18:41:00,326 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-11-07 18:47:09,781 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-11-07 18:47:09,781 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range

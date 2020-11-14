@@ -1,0 +1,28 @@
+2020-07-23 12:45:06,836 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-07-23 12:45:06,836 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-07-23 12:46:06,221 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-07-23 12:46:06,221 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-08-14 13:01:23,629 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-08-14 13:01:23,629 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-08-18 16:37:16,655 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-08-18 16:37:16,655 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-08-20 10:16:59,747 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-08-20 10:16:59,748 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-08-20 10:17:06,805 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2020-08-20 10:17:06,805 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range
+2020-11-06 07:35:20,803 - ERROR - err_rd_term => read_cfg_PACK / try  
+type object 'Class_CNST' has no attribute 'kKoef'
+2020-11-06 07:51:21,966 - ERROR - err_rd_term => unpack_str_fut / try  
+name 'Class_str_FUT_PCK' is not defined
